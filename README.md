@@ -34,4 +34,4 @@ A tree model was optimized via RandomizedSearchCV. Both entropy (with a *testing
 
 Using the Random Forest model, feauture importances were measured and plotted. The results showed that of the factors considered, a character's house death rate and what season number they were introduced in were most important when predicting if they would survive the show or not.
 
-(https://miro.medium.com/max/1400/1*ABimYBeJVJerGFM06OBiZw.png)
+!(https://miro.medium.com/max/1400/1*ABimYBeJVJerGFM06OBiZw.png)
