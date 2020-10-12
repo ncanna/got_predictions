@@ -30,8 +30,8 @@ The GBC model used the friedman_mse criterion and a deviance loss function. In e
 
 A tree model was optimized via RandomizedSearchCV. Both entropy (with a *testing accuracy of 0.956*) and gini (also with a *testing accuracy of 0.956*) criterion were tested and evaluated using roc_auc scores. 
 
-### Feauture Importance
+### Feature Importance
 
-Using the Random Forest model, feauture importances were measured and plotted. The results showed that of the factors considered, a character's house death rate and what season number they were introduced in were most important when predicting if they would survive the show or not.
+Using the Random Forest model, feature importances were measured and plotted. The results showed that of the factors considered, a character's house death rate and what season number they were introduced in were most important when predicting if they would survive the show or not.
 
 ![Feauture Importances](https://miro.medium.com/max/1400/1*ABimYBeJVJerGFM06OBiZw.png)
